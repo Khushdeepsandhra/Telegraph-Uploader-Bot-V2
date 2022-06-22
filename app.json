@@ -7,7 +7,7 @@
         "Bot"
     ],
     "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2",
+    "repository": "https://github.com/Khushdeepsandhra/Telegraph-Uploader-Bot-V2",
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "API_ID": {
